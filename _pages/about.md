@@ -38,5 +38,4 @@ My PhD topic is self-supervised audio representation learning for general sound 
 - Wakeword detection.
 - NLP and textless NLP.
 
-
 In my free time I like making music 🎸 and travelling/hiking 🌍 🏞️
