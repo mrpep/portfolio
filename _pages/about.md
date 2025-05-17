@@ -25,12 +25,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-👋 👋 👋 I’m a computer science 💻 PhD candidate at Universidad de Buenos Aires 🇦🇷
+👋 👋 👋 I’m a PhD candidate in computer science 💻 at the Universidad de Buenos Aires 🇦🇷 working at the intersection of deep learning 🧠 and audio 🔊.
 
-I am working in the intersection of deep learning 🧠 and audio 🔊, particularly speech 🗣, music 🎼 and environmental sounds.
+My research focuses on self-supervised audio representation learning for general sound understanding. I'm particularly interested in:
 
-My PhD topic is self-supervised audio representation learning for general sound understanding. I have worked in other audio and deep learning related topics such as:
-
+- Representation Learning.
 - Emotion recognition from speech.
 - Neural audio codecs.
 - Text to speech synthesis and voice cloning.
@@ -38,4 +37,4 @@ My PhD topic is self-supervised audio representation learning for general sound 
 - Wakeword detection.
 - NLP and textless NLP.
 
-In my free time I like making music 🎸 and travelling/hiking 🌍 🏞️
+I also enjoy making music 🎸 and exploring the outdoors through travel and hiking 🌍 🏞️
