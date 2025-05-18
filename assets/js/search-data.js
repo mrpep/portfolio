@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-diving-deep-into-k-means",
+        },{id: "post-your-own-overleaf",
+        
+          title: "Your own overleaf",
+        
+        description: "A short guide to deploy your own overleaf and own your data with pro features for free.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/overleaf/";
+          
+        },
+      },{id: "post-diving-deep-into-k-means",
         
           title: "Diving deep into K-Means",
         
