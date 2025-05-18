@@ -8,7 +8,7 @@ assets/plotly/demo.html
 assets/json/resume.json
 lighthouse_results/**
 _pages/about.md
-_posts/2015-10-20-math.md
+_posts/*.md
 _sass/font-awesome/*.scss
 _sass/tabler-icons/*.scss
 _scripts/*
