@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "books-the-godfather",
+        },{id: "post-diving-deep-into-k-means",
+        
+          title: "Diving deep into K-Means",
+        
+        description: "Let&#39;s implement K-Means from scratch in PyTorch",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/kmeans/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
