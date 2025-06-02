@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/blog/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -54,6 +54,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2023/audiolm/";
+          
+        },
+      },{id: "post-exploiting-the-stereo-field-to-separate-music-sources",
+        
+          title: "Exploiting the stereo field to separate music sources",
+        
+        description: "Separating sources by undoing panning",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/stereounmix/";
           
         },
       },{id: "books-the-godfather",
