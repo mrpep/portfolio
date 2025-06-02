@@ -45,6 +45,17 @@ ninja.data = [{
             window.location.href = "/blog/2023/kmeans/";
           
         },
+      },{id: "post-audio-generation-using-language-models",
+        
+          title: "Audio generation using Language Models",
+        
+        description: "Recycling GPT2 to generate audio",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/audiolm/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
