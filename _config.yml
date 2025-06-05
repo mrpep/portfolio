@@ -121,7 +121,27 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-#external_sources:
+external_sources:
+  - name: UNTREF
+    posts:
+      - url: https://www.untref.edu.ar/mundountref/leonardo-pepino-ingenieria-sonido-proyecto
+        published_date: 2019-04-09
+      - url: https://www.untref.edu.ar/mundountref/leonardo-pepino-software-jaas
+        published_date: 2018-08-13
+  - name: youtube
+    posts:
+      - url: https://www.youtube.com/watch?v=PkK5Yy0SdjI
+        published_date: 2021-11-03
+      - url: https://www.youtube.com/watch?v=EL0Uk15HlNc
+        published_date: 2022-10-27
+      - url: https://www.youtube.com/watch?v=M0uFxyw_WTo
+        published_date: 2020-11-17
+      - url: https://www.youtube.com/live/cldy_wPzwNw?si=8wfsC83kYwSC7ieE&t=976
+        published_date: 2023-05-05
+  - name: spotify
+    posts:
+      - url: https://open.spotify.com/episode/62AnqaBHqLAfk2tIYUROpe
+        published_date: 2022-11-24
 #  - name: medium.com
 #    rss_url: https://medium.com/@al-folio/feed
 #  - name: Google Blog
