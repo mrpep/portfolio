@@ -56,6 +56,17 @@ ninja.data = [{
             window.location.href = "/blog/2023/audiolm/";
           
         },
+      },{id: "post-youtube",
+        
+          title: '- YouTube <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.youtube.com/live/cldy_wPzwNw?si=8wfsC83kYwSC7ieE&t=976", "_blank");
+          
+        },
       },{id: "post-exploiting-the-stereo-field-to-separate-music-sources",
         
           title: "Exploiting the stereo field to separate music sources",
@@ -65,6 +76,72 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2023/stereounmix/";
+          
+        },
+      },{id: "post-inteligencia-artificial-aplicada-al-sonido-tamaba-podcast-podcast-on-spotify",
+        
+          title: 'INTELIGENCIA ARTIFICIAL APLICADA AL SONIDO  - TAMABA PODCAST  | Podcast on Spotify <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Listen to this episode from TAMABA PODCAST  on Spotify. ¿Computadoras que componen música 24/7? ¿Voces clonadas? ¿Máquinas entrenadas para avisar desmontes ilegales? Conversamos con Leonardo Pepino, estudiante del Doctorado en Computación en la UBA, que se encuentra trabajando en la intersección entre inteligencia artificial y audio. Se tomó un rato libre dentro de sus tareas como pasante en Google para charlar sobre estos temas.   ",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://open.spotify.com/episode/62AnqaBHqLAfk2tIYUROpe", "_blank");
+          
+        },
+      },{id: "post-youtube",
+        
+          title: '- YouTube <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.youtube.com/watch?v=EL0Uk15HlNc", "_blank");
+          
+        },
+      },{id: "post-youtube",
+        
+          title: '- YouTube <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.youtube.com/watch?v=PkK5Yy0SdjI", "_blank");
+          
+        },
+      },{id: "post-youtube",
+        
+          title: '- YouTube <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.youtube.com/watch?v=M0uFxyw_WTo", "_blank");
+          
+        },
+      },{id: "post-inteligencia-artificial-para-desarmar-y-armar-la-música-mundo-untref",
+        
+          title: 'Inteligencia artificial para desarmar (y armar) la música  - MUNDO UNTREF <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Leonardo Pepino es egresado de la carrera de Ingeniería de Sonido y enfocó su tesis de grado en un proyecto que separa fuentes musicales.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.untref.edu.ar/mundountref/leonardo-pepino-ingenieria-sonido-proyecto", "_blank");
+          
+        },
+      },{id: "post-un-estudiante-de-la-untref-expondrá-su-proyecto-en-las-jaas-mundo-untref",
+        
+          title: 'Un estudiante de la UNTREF expondrá su proyecto en las JAAS - MUNDO... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Leonardo Pepino presentará un software que separa fuentes musicales en las Jornadas de Acústica, Audio y Sonido que se realizarán esta semana.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.untref.edu.ar/mundountref/leonardo-pepino-software-jaas", "_blank");
           
         },
       },{id: "books-the-godfather",
