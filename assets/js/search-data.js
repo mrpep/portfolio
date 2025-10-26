@@ -133,9 +133,9 @@ ninja.data = [{
             window.open("https://www.youtube.com/watch?v=M0uFxyw_WTo", "_blank");
           
         },
-      },{id: "post-inteligencia-artificial-para-desarmar-y-armar-la-música-mundo-untref",
+      },{id: "post-mundo-untref-inteligencia-artificial-para-desarmar-y-armar-la-música-mundo-untref",
         
-          title: 'Inteligencia artificial para desarmar (y armar) la música  - MUNDO UNTREF <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'MUNDO UNTREF - Inteligencia artificial para desarmar (y armar) la música - MUNDO... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
         description: "Leonardo Pepino es egresado de la carrera de Ingeniería de Sonido y enfocó su tesis de grado en un proyecto que separa fuentes musicales.",
         section: "Posts",
@@ -144,9 +144,9 @@ ninja.data = [{
             window.open("https://www.untref.edu.ar/mundountref/leonardo-pepino-ingenieria-sonido-proyecto", "_blank");
           
         },
-      },{id: "post-un-estudiante-de-la-untref-expondrá-su-proyecto-en-las-jaas-mundo-untref",
+      },{id: "post-mundo-untref-un-estudiante-de-la-untref-expondrá-su-proyecto-en-las-jaas-mundo-untref",
         
-          title: 'Un estudiante de la UNTREF expondrá su proyecto en las JAAS - MUNDO... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'MUNDO UNTREF - Un estudiante de la UNTREF expondrá su proyecto en las... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
         description: "Leonardo Pepino presentará un software que separa fuentes musicales en las Jornadas de Acústica, Audio y Sonido que se realizarán esta semana.",
         section: "Posts",
