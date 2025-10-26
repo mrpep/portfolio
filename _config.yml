@@ -142,6 +142,10 @@ external_sources:
     posts:
       - url: https://open.spotify.com/episode/62AnqaBHqLAfk2tIYUROpe
         published_date: 2022-11-24
+  - name: neurasound
+    posts:
+      - url: https://www.neurasound.com
+        published_date: 2022-01-01
 #  - name: medium.com
 #    rss_url: https://medium.com/@al-folio/feed
 #  - name: Google Blog
