@@ -73,6 +73,24 @@
   ],
   "publications": [
     {
+      "name": "EncodecMAE: Leveraging neural codecs for universal audio representation learning",
+      "publisher": "Interspeech 2025",
+      "releaseDate": "2025",
+      "url": "https://arxiv.org/abs/2309.07391"
+    },
+    {
+      "name": "Benchmarking Time-localized Explanations for Audio Classification Models",
+      "publisher": "Interspeech 2025",
+      "releaseDate": "2025",
+      "url": "https://arxiv.org/abs/2506.04391"
+    },    
+    {
+      "name": "A Dataset for Automatic Assessment of TTS Quality in Spanish",
+      "publisher": "Interspeech 2025",
+      "releaseDate": "2025",
+      "url": "https://arxiv.org/pdf/2507.01805"
+    },        
+    {
       "name": "Leveraging Pre-Trained Autoencoders for Interpretable Prototype Learning of Music Audio",
       "publisher": "ICASSP 2024 Workshop on Explainable AI for Speech and Audio",
       "releaseDate": "2024",
