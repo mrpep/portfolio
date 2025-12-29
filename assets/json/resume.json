@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Leonardo Pepino",
-    "label": "PhD Candidate",
+    "label": "Research Scientist",
     "image": "",
     "email": "lpepino@dc.uba.ar",
-    "summary": "PhD student at University of Buenos Aires performing research at the intersection of deep learning and audio."
+    "summary": "Making Gemini better at Google Deepmind."
   },
   "work": [
     {
@@ -72,6 +72,18 @@
     }
   ],
   "publications": [
+    {
+      "name": "Análisis y desarrollo de representaciones generales de audio",
+      "publisher": "Universidad Nacional de Buenos Aires",
+      "releaseDate": 2025,
+      "url": "/assets/pdf/tesis-final.pdf"
+    },
+    {
+      "name": "Better audio representations are more brain-like: linking model-brain alignment with performance in downstream auditory tasks",
+      "publisher": "Preprint",
+      "releaseDate": "2025",
+      "url": "https://arxiv.org/abs/2511.16849"
+    },
     {
       "name": "EncodecMAE: Leveraging neural codecs for universal audio representation learning",
       "publisher": "Interspeech 2025",
