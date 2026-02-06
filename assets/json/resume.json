@@ -60,7 +60,8 @@
       "area": "My project is titled ”New deep learning strategies for general sound understanding” and is supervised by Dr. Luciana Ferrer and co-supervised by Dr. Pablo Riera. This research focuses on developing reusable deep learning models for general-purpose audio understanding, with an emphasis on transfer learning in low-resource scenarios. The project explores the adaptation of transformer architectures to audio signal processing and investigates various self-supervised pretraining strategies to enhance model generalization across diverse audio tasks.",
       "studyType": "PhD in Computer Science",
       "startDate": "2020",
-      "endDate": "2025"
+      "endDate": "2025",
+      "url": "/assets/pdf/tesis-final.pdf"
     },
     {
       "institution": "Universidad de Tres de Febrero",
@@ -68,7 +69,8 @@
       "area": "This integrated engineering degree is equivalent to a combined Bachelor's and Master's program (4 + 2 years). It includes a final project comparable to a Master's thesis. My thesis, titled ”Music Source Separation Using Convolutional Neural Networks”, was supervised by Dr. Laurence Bender. GPA: 8.07/10.",
       "studyType": "Dipl. Sound Engineering",
       "startDate": "2013",
-      "endDate": "2019"
+      "endDate": "2019",
+      "url": "/assets/pdf/tesis-ing.pdf"
     }
   ],
   "publications": [
