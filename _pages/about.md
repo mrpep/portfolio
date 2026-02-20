@@ -24,10 +24,12 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+👋 👋 👋 I’m a Research Scientist at Google Deepmind, working in bringing audio generation capabilities to Gemini.
 
-👋 👋 👋 I’m a PhD candidate in computer science 💻 at the Universidad de Buenos Aires 🇦🇷 working at the intersection of deep learning 🧠 and audio 🔊.
 
-My research focuses on self-supervised audio representation learning for general sound understanding. I'm particularly interested in:
+I got my PhD in Computer Science 💻 at the Universidad de Buenos Aires 🇦🇷 in 2025 and have worked at the intersection of deep learning 🧠 and audio 🔊 for more than 8 years.
+
+My PhD research focused on self-supervised audio representation learning for general sound understanding and I'm particularly interested in:
 
 - Representation Learning.
 - Emotion recognition from speech.
