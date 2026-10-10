@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-your-own-overleaf",
+        },{id: "post-fast-music-source-separation",
+        
+          title: "Fast Music Source Separation",
+        
+        description: "Rescuing my Master&#39;s thesis website — isolating bass, drums, vocals and other instruments from a stereo mix with convolutional neural networks",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/fast-mss/";
+          
+        },
+      },{id: "post-your-own-overleaf",
         
           title: "Your own overleaf",
         
