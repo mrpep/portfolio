@@ -2,6 +2,121 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
+// Justified body text across pages, posts and distill articles
+.post,
+d-article {
+  text-align: justify;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+
+  // elements that should keep their original alignment
+  d-title,
+  d-byline,
+  pre,
+  code,
+  kbd,
+  samp,
+  table,
+  th,
+  td,
+  .post-header,
+  .post-title,
+  .post-meta,
+  .post-tags,
+  .post-description {
+    text-align: start;
+  }
+}
+
+// Audio sample cards
+audio {
+  accent-color: var(--global-theme-color);
+}
+
+.audio-card {
+  background-color: color-mix(in srgb, var(--global-theme-color) 5%, var(--global-card-bg-color));
+  border: 1px solid color-mix(in srgb, var(--global-theme-color) 20%, transparent);
+  border-left: 3px solid var(--global-theme-color);
+  border-radius: 0.5rem;
+  transition:
+    background-color 0.2s ease,
+    border-color 0.2s ease;
+
+  &:hover {
+    background-color: color-mix(in srgb, var(--global-theme-color) 10%, var(--global-card-bg-color));
+  }
+}
+
+// Collapsible code blocks
+.code-collapse {
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.5rem;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  overflow: hidden;
+
+  .code-collapse-toggle {
+    align-items: center;
+    background: color-mix(in srgb, var(--global-theme-color) 8%, var(--global-card-bg-color));
+    border: none;
+    border-bottom: 1px solid var(--global-divider-color);
+    color: var(--global-text-color);
+    cursor: pointer;
+    display: flex;
+    font-size: 0.75rem;
+    justify-content: space-between;
+    letter-spacing: 0.05em;
+    padding: 0.4rem 0.75rem;
+    text-transform: uppercase;
+    width: 100%;
+
+    .code-collapse-lang {
+      color: var(--global-theme-color);
+      font-weight: 600;
+    }
+
+    .chevron {
+      transition: transform 0.25s ease;
+    }
+
+    &:hover {
+      background: color-mix(in srgb, var(--global-theme-color) 14%, var(--global-card-bg-color));
+    }
+  }
+
+  &.collapsed .code-collapse-toggle {
+    border-bottom: none;
+
+    .chevron {
+      transform: rotate(-90deg);
+    }
+  }
+
+  .code-collapse-body {
+    display: grid;
+    grid-template-rows: 1fr;
+    transition: grid-template-rows 0.25s ease;
+
+    .code-collapse-inner {
+      min-height: 0;
+      overflow: hidden;
+    }
+  }
+
+  &.collapsed .code-collapse-body {
+    grid-template-rows: 0fr;
+  }
+
+  figure.highlight,
+  div[class*="highlighter-rouge"] {
+    border: none;
+    border-radius: 0;
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+}
+
 // Typography
 
 p,

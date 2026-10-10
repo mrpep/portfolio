@@ -27,9 +27,6 @@ _styles: >
     margin-bottom: 0.2em;
     margin-top: 0.2em;
     }
-    .bg-pink {
-    background-color: #f7e1f7;
-    }
 ---
 
 
@@ -83,7 +80,7 @@ Audio(side,rate=fs)
 Here it's a 30s excerpt of the resulting track:
 
 <div class="container p-1">
-  <div class="border rounded mb-1 p-1 bg-pink">
+  <div class="border rounded mb-1 p-1 audio-card">
     <div class="row align-items-center">
       <div class="col-md-6">
         <div class="mb-1"><strong>Side</strong></div>
@@ -103,7 +100,7 @@ Audio(mid,rate=fs)
 {% endhighlight %}
 
 <div class="container p-1">
-  <div class="border rounded mb-1 p-1 bg-pink">
+  <div class="border rounded mb-1 p-1 audio-card">
     <div class="row align-items-center">
       <div class="col-md-6">
         <div class="mb-1"><strong>Mid</strong></div>
@@ -125,7 +122,7 @@ Let's try to separate the vocals in With a Little Help from my friends (The Beat
 We can try the approaches discussed above and the results are these:
 
 <div class="container p-1">
-  <div class="border rounded mb-1 p-1 bg-pink">
+  <div class="border rounded mb-1 p-1 audio-card">
     <div class="row align-items-center">
       <div class="col-md-6">
         <div class="mb-1"><strong>Mid</strong></div>
@@ -135,7 +132,7 @@ We can try the approaches discussed above and the results are these:
       </div>
     </div>
   </div>
-  <div class="border rounded mb-1 p-1 bg-pink">
+  <div class="border rounded mb-1 p-1 audio-card">
     <div class="row align-items-center">
       <div class="col-md-6">
         <div class="mb-1"><strong>Side</strong></div>
@@ -273,7 +270,7 @@ Audio(output, rate=fs)
 And this is the result
 
 <div class="container p-1">
-  <div class="border rounded mb-1 p-1 bg-pink">
+  <div class="border rounded mb-1 p-1 audio-card">
     <div class="row align-items-center">
       <div class="col-md-6">
         <div class="mb-1"><strong>Separation result</strong></div>
